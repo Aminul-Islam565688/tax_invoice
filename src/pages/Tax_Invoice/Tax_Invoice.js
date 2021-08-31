@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Tax_Invoice.scss';
+import './TAX_INVOICE.scss';
 
 
 

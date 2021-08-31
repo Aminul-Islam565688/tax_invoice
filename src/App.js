@@ -1,10 +1,10 @@
 import './App.css';
-import Tax_Invoice from './pages/Tax_Invoice/Tax_Invoice';
+import TAX_INVOICE from './pages/TAX_INVOICE/TAX_INVOICE';
 
 function App() {
   return (
     <div>
-      <Tax_Invoice></Tax_Invoice>
+      <TAX_INVOICE></TAX_INVOICE>
     </div>
   );
 }

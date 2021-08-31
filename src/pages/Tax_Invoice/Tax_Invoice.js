@@ -6,7 +6,6 @@ import './Tax_Invoice.scss';
 const Tax_Invoice = () => {
 
     const [total, setTotal] = useState(0)
-    const [numToWords, setNumToWords] = useState('')
 
     const insertRow = () => {
         const table = document.querySelector('.item-table'),

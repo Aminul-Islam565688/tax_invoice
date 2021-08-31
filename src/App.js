@@ -1,5 +1,5 @@
 import './App.css';
-import TAX_INVOICE from './pages/TAX_INVOICE/TAX_INVOICE';
+import TAX_INVOICE from './pages/TAX_INVOICE/TAX_INVOICE.js';
 
 function App() {
   return (
